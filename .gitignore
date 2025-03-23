@@ -1,0 +1,21 @@
+# Ignora a pasta de compilação gerada pelo Cargo
+/target/
+
+# Ignora arquivos de configuração específicos do Cargo
+Cargo.lock
+
+# Ignora arquivos de ambiente (como .env)
+.env
+
+# Ignora arquivos de IDE (como do Visual Studio Code)
+.vscode/
+
+# Ignora arquivos de editor (como do Vim)
+*.swp
+*.swo
+
+# Ignora arquivos de backup
+*.bak
+
+# Ignora arquivos de log
+*.log
