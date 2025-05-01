@@ -1,0 +1,9 @@
+[package]
+name = "Agenda_Pet"
+version = "0.1.0"
+edition = "2024"
+
+#testando conexão com banco
+[dependencies]
+rusqlite = "0.35.0"
+
